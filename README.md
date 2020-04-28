@@ -11,7 +11,7 @@ right arrow - move right
 spacebar - shoot
 <br>
 q - quit game
-<br>
+<br><br>
 What I Learned:
 - the Pygame module
 - how to implement concepts in game development (moving objects, collision detection)
