@@ -1,5 +1,3 @@
-# alien attack
-
 A game similar to Space Invaders that uses the Pygame module.
 
 Controls:
