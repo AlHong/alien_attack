@@ -2,16 +2,15 @@
 
 A game similar to Space Invaders that uses the Pygame module.
 
-Controls:
-<br>
-- left arrow: move left
-<br>
-- right arrow: move right
-<br>
-- spacebar: shoot
-<br>
-- q: quit game
-<br><br>
+<strong>Controls:</strong>
+<ul>
+  <li>left arrow: move left</li>
+  <li>right arrow: move right</li>
+  <li>spacebar: shoot</li>
+  <li>q: quit game</li>
+</ul>
+<br />
+
 What I Learned:
 - the Pygame module
 - how to implement concepts in game development (moving objects, collision detection)
