@@ -2,7 +2,7 @@
 
 A game similar to Space Invaders that uses the Pygame module.
 
-<strong>Controls:</strong>
+Controls:
 <ul>
   <li>left arrow: move left</li>
   <li>right arrow: move right</li>
